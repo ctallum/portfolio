@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://chrisallum.com"
+baseURL = "https://chrisallum.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"

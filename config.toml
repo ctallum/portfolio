@@ -1,0 +1,57 @@
+# default configuration
+baseURL = "http://chrisallum.com"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "Chris Allum Portfolio"
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+
+# menu
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+weight = 1
+
+
+# default parameters
+[params]
+home = "Home"
+logo = ""
+# theme color
+theme_color = "#222E50"
+# contact info
+phone = "202 748 6903"
+email = "ctallum@gmail.com"
+address = "Boston, MA"
+# meta description
+author = "Chris Allum"
+description = "Chris Allum online portfolio"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2021 Chris Allum"
+
+
+
+

@@ -1,0 +1,62 @@
+# banner
+banner:
+  title : "Hi, I’m <br> Christoher Allum!"
+
+# about
+about:
+  enable : true
+  content : "Welcome, I'm a current Junior student at Olin College of Engineering studying Engineering with a concentration in robotics. I'm interested in all things robotics, green tech, and entrepreneurship. I am also an avid fencer and film lover. This is my online portfolio. It contains information on all my academic projects, personal projects, skills, and whatever else I feel like adding. If you feel like hiring me (please do!), let me know. Otherwise, feel free to explore the site and enjoy!"
+
+
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Robotics Team Captain"
+      company : "Maret High School"
+      duration : "Sept 2015 - May 2019"
+
+    - logo : "images/experience/icon-2.png"
+      title : "Technical Intern"
+      company : "Roboteam Inc."
+      duration : "Jun 2018 - Jul 2018"
+
+    - logo : "images/experience/icon-3.png"
+      title : "Course Assistant - Design Nature"
+      company : Olin College
+      duration : "Sept 2020 - Dec 2020"
+      
+    - logo : "images/experience/icon-4.png"
+      title : "Robotics Intern"
+      company : "Honda Development and Manufacturing of America"
+      duration : "Jun 2021 - Aug 2021"
+      
+    - logo : "images/experience/icon-5.png"
+      title : "Suspension Design Lead"
+      company : "Olin BAJA SAE"
+      duration : "Sep 2019 - Present"
+
+
+
+# projects
+projects:
+  enable : true
+  title : "Projects"
+  # projects post comes from "content/projects" folder
+
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Graduated Cum Laude"
+      year : "2019"
+      academy : "Maret High School, Washington DC"
+      
+    - title : "Engineering with Concentration in Robotics"
+      year : "2023 (expected)"
+      academy : "Olin College of Engineering"

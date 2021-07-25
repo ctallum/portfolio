@@ -1,5 +1,12 @@
 <div class="col-lg-4 col-sm-6 mb-4">
   <article class="card shadow">
+    {{ if isset .Params "external_url"}}
+    <a href="{{.Params.external_url}}" title="{{.Title }}"><img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"></a>
+    <div class="card-body">
+      <h4 class="card-title"><a class="text-dark" href="{{.Params.external_url}}">{{.Title }}</a>
+      </h4>
+      <p class="cars-text">{{.Summary}}</p>
+    {{ else}}
     <a href="{{.Permalink}}" title="{{.Title }}"><img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"></a>
     <div class="card-body">
       <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
@@ -8,6 +15,7 @@
       <!--
       <a href="{{.Permalink}}" class="btn btn-sm btn-primary">Learn more</a>
       -->
+    {{ end}}
     </div>
   </article>
 </div>

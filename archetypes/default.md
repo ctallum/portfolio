@@ -1,9 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-image: "images/blog/post-5.jpg"
-#date: {{ .Date }}
+image: "img/project cover image/image.png"
 draft: true
-project_date: "Semester"
+project_date: "May 2001"
 weight: 0
 ---
 

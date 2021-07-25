@@ -14,27 +14,27 @@ experience:
   enable : true
   title : "Experience"
   item: 
-    - logo : "img/experience/icon-1.png"
+    - logo : "img/experience cover image/icon-1.png"
       title : "Robotics Team Captain"
       company : "Maret High School"
       duration : "Sept 2015 - May 2019"
 
-    - logo : "img/experience/icon-2.png"
+    - logo : "img/experience cover image/icon-2.png"
       title : "Technical Intern"
       company : "Roboteam Inc."
       duration : "Jun 2018 - Jul 2018"
 
-    - logo : "img/experience/icon-3.png"
+    - logo : "img/experience cover image/icon-3.png"
       title : "Course Assistant - Design Nature"
       company : Olin College
       duration : "Sept 2020 - Dec 2020"
       
-    - logo : "img/experience/icon-4.png"
+    - logo : "img/experience cover image/icon-4.png"
       title : "Robotics Intern"
       company : "Honda Development and Manufacturing of America"
       duration : "Jun 2021 - Aug 2021"
       
-    - logo : "img/experience/icon-5.png"
+    - logo : "img/experience cover image/icon-5.png"
       title : "Suspension Design Lead"
       company : "Olin BAJA SAE"
       duration : "Sep 2019 - Present"

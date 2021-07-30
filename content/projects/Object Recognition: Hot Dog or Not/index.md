@@ -3,7 +3,7 @@ title: "Object Recognition: Hot Dog or Not"
 image: "img/project cover image/Object Recognition.PNG"
 draft: false
 project_date: "Dec 2020"
-weight: 0
+weight: 2
 pdf: "https://drive.google.com/file/d/1gG6pCWpDNPaFriDvA_YELosfVvA4JW9T/preview"
 ---
 

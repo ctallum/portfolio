@@ -3,7 +3,7 @@ title: "Baja SAE"
 image: "img/project cover image/Baja SAE.jpg"
 draft: false
 project_date: "Sept 2019 - Present"
-weight: 0
+weight: 2
 ---
 
 !["Cover Photo"](./img/main.png)

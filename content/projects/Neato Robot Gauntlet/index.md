@@ -3,7 +3,7 @@ title: "Neato Robot Gauntlet"
 image: "img/project cover image/Neato Robot Gauntlet.png"
 draft: false
 project_date: "May 2020"
-weight: 0
+weight: 3
 pdf: "https://drive.google.com/file/d/19vQha0wfSvICGLAlWt9pjXEmwwAYdduM/preview"
 ---
 

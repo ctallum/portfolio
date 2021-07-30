@@ -3,7 +3,7 @@ title: "Autonomous Rover"
 image: "img/project cover image/Autonomous Rover.png"
 draft: false
 project_date: "May 2021"
-weight: 0
+weight: 3
 ---
 
 !["Team Photo](./img/group.jpg)

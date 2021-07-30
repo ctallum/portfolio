@@ -3,7 +3,7 @@ title: "Dynamics Simulations"
 image: "img/project cover image/Dynamics Simulations.png"
 draft: false
 project_date: "May 2021"
-weight: 0
+weight: 2
 external_url: "https://github.com/ctallum/Dynamics-Simulations"
 ---
 

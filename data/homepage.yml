@@ -1,12 +1,17 @@
 # banner
 banner:
-  title : "Hi, I’m <br> Christoher Allum!"
+  title : "Hi, I’m <br> Christopher Allum!"
 
 # about
 about:
   enable : true
   content : "Welcome, I'm a current Junior student at Olin College of Engineering studying Engineering with a concentration in robotics. I'm interested in all things robotics, green tech, and entrepreneurship. I am also an avid fencer and film lover. This is my online portfolio. It contains information on all my academic projects, personal projects, skills, and whatever else I feel like adding. If you feel like hiring me (please do!), let me know. Otherwise, feel free to explore the site and enjoy!"
 
+# projects
+projects:
+  enable : true
+  title : "Projects"
+  # projects post comes from "content/projects" folder
 
 
 # experience
@@ -41,11 +46,7 @@ experience:
 
 
 
-# projects
-projects:
-  enable : true
-  title : "Projects"
-  # projects post comes from "content/projects" folder
+
 
 
 # education

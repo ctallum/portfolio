@@ -1,4 +1,6 @@
 #! /bin/sh
+git pull
+
 
 hugo -t kross-hugo
 

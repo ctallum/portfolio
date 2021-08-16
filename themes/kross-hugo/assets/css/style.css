@@ -95,7 +95,8 @@ h6,
   border: 0;
   position: relative;
   z-index: 1;
-  transition: .2s ease
+  transition: .2s ease;
+  
 }
 
 .btn:focus {
@@ -109,7 +110,7 @@ h6,
 
 .btn-sm {
   font-size: 15px;
-  padding: 10px 30px
+  padding: 8px 40px
 }
 
 .btn-xs {
@@ -120,18 +121,23 @@ h6,
 .btn-primary {
   background: var(--primary-color);
   color: #fff
+  
 }
 
 .btn-primary.active {
   opacity: .8;
+  
 }
 
 .btn-primary:active {
   background: var(--primary-color) !important
+  
+  
 }
 
 .btn-primary:hover {
   background: var(--primary-color)
+  
 }
 
 .btn-primary.focus,
@@ -269,6 +275,10 @@ a:hover {
   color: var(--primary-color) !important
 }
 
+.experiences {
+  height: 260px
+}
+
 .text-color {
   color: #4c4c4c
 }
@@ -335,14 +345,22 @@ a:hover {
 
 .font-primary {
   font-family: roboto, serif !important
+
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: roboto, serif !important;
+  padding-top: 25px;
+  font-weight: normal;
 }
 
 .font-tertiary {
-  font-family: bwnistaint-xbd !important
+  font-family: bwnistaint-xbd !important;
+}
+
+.font-about-title {
+  font-family: bwnistaint-xbd !important;
+  margin-top: 25px
 }
 
 .shadow {
@@ -411,6 +429,10 @@ textarea.form-control {
   height: 120px
 }
 
+.card-shadow {
+  height: 450px
+}
+
 .card {
   border: 0
 }
@@ -424,8 +446,8 @@ textarea.form-control {
 }
 
 .navigation {
-  padding: 40px 130px;
-  transition: .1s ease
+  padding: 0px 130px;
+  transition: .5s ease
 }
 
 .navigation.nav-bg {
@@ -461,8 +483,8 @@ textarea.form-control {
 }
 
 .hero-area {
-  padding: 250px 0 200px;
-  position: relative
+  padding: 75px 0 0px;
+  position: static
 }
 
 @media(max-width:767px) {
@@ -478,8 +500,12 @@ textarea.form-control {
 }
 
 .layer {
-  position: absolute;
-  z-index: 1
+  z-index: 0;  
+  opacity: 1;
+  filter: contrast(.8) brightness(1);
+  
+
+  
 }
 
 #l1 {
@@ -528,9 +554,12 @@ textarea.form-control {
 }
 
 .layer-bg {
-  position: absolute;
-  bottom: 0;
-  left: 0
+  position: static;
+  margin-top: 50px;
+  top: 0;
+  left: 0;
+
+
 }
 
 .progress-wrapper {

@@ -28,10 +28,10 @@ link = "plugins/google-map/map.js"
 
 
 # menu
-[[menu.main]]
-URL = "projects"
-name = "Projects"
-weight = 1
+#[[menu.main]]
+#URL = "projects"
+#name = "Projects"
+#weight = 1
 
 
 # default parameters

@@ -2,17 +2,32 @@
 
   <!-- hero area -->
   <section class="hero-area bg-primary overflow-hidden" id="parallax">
+    
+    <div class="layer">
+      <img src="images/home/head.jpg" alt="Chris Allum Photo">
+      
+    </div>
+    
     <div class="container">
+      
+
       <div class="row">
-        <div class="col-lg-11 mx-auto">
-          <h1 class="text-white font-tertiary">{{ site.Data.homepage.banner.title | safeHTML }}</h1>
+        
+        <div class="col-lg-11 mx-auto text-center">
+          <h2 class="text-white font-about-title">{{ site.Data.homepage.banner.title | safeHTML }}</h2>
+        </div>
+        <div class="col-lg-10 mx-auto text-center">
+          {{ with site.Data.homepage.about }}
+          <p class="font-secondary lead text-white">{{.content | markdownify}}</p>
+
+          {{ end }}
         </div>
       </div>
     </div>
+    
+
+    
     <!--
-    <div class="layer-bg w-100">
-      <img class="img-fluid w-100" src="{{`images/illustrations/leaf-bg.png` | relURL}}" alt="bg-shape">
-    </div>
     <div class="layer" id="l2">
       <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
     </div>
@@ -23,11 +38,13 @@
       <img src="{{`images/illustrations/dots-group-orange.svg` | relURL}}" alt="bg-shape">
     -->
     <!-- social icon -->
+    <!--
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range site.Params.social }}
       <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
       {{ end }}
     </ul>
+  -->
     <!-- /social icon -->
   </section>
   <!-- /hero area -->
@@ -144,6 +161,7 @@
 
   {{ if site.Data.homepage.projects.enable }}
   <!-- projects -->
+  <!--
   <section class="section">
     <div class="container">
       <div class="row">
@@ -156,7 +174,71 @@
       </div>
     </div>
   </section>
+  -->
   <!-- /projects -->
+ <!-- portfolio -->
+ <section class="section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{site.Data.homepage.projects.title | markdownify }}</h2>
+      </div>
+      <div class="col-12">
+        <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
+          <label class="btn btn-sm btn-primary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          {{ $categories := slice }}
+          {{ range .Data.Pages }}
+          {{ range .Params.categories }}
+          {{ $categories = $categories | append . }}
+          {{ end }}
+          {{ end }}
+          {{ range ( $categories | uniq ) }}
+          <label class="btn btn-sm btn-primary">
+            <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
+          </label>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row shuffle-wrapper">
+
+      {{ range (where .Data.Pages "Params.hide" "!=" "true") }}
+
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{{range $index, $element:= .Params.categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
+        <article class="card-shadow">
+          {{ if isset .Params "external_url"}}
+          <a href="{{.Params.external_url}}" title="{{.Title }}"><img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"></a>
+          <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="{{.Params.external_url}}">{{.Title }}</a>
+            </h4>
+            <p class="cars-text">{{.Summary}}</p>
+          {{ else}}
+          <a href="{{.Permalink}}" title="{{.Title }}"><img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"></a>
+          <div class="card-body">
+            <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
+            </h4>
+            <p class="cars-text">{{.Summary}}</p>
+            <!--
+            <a href="{{.Permalink}}" class="btn btn-sm btn-primary">Learn more</a>
+            -->
+          {{ end}}
+          </div>
+        </article>
+
+      </div>
+
+      {{ end }}
+      
+      
+    </div>
+
+    
+  </div>
+</section>
+
+
   {{ end }}
 
   {{ if site.Data.homepage.experience.enable }}
@@ -169,12 +251,22 @@
           <h2 class="section-title">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="col-lg-3 col-md-4 text-center">
+
+
+
+        <div class="col-lg-3 col-md-4 center-text">
+          <div class="experiences">
           <img src="{{.logo | relURL }}" alt="icon">
           <p class="mb-0">{{.duration}}</p>
           <h4>{{.title }}</h4>
           <h6 class="text-light">{{.company }}</h6>
         </div>
+          {{ with .link}}
+          <a href={{.}} class="btn btn-sm btn-primary">Learn more</a>
+          {{ end}}
+
+        </div>
+
         {{ end }}
       </div>
     </div>

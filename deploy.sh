@@ -1,5 +1,7 @@
 #! /bin/sh
 
+hugo -t kross-hugo
+
 cd ./public/
 
 git add .

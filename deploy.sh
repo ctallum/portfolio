@@ -1,6 +1,8 @@
 #! /bin/sh
-git pull
 
+cd /home/ctallum/Documents/Projects/portfolio
+
+git pull
 
 hugo -t kross-hugo
 

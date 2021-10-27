@@ -3,7 +3,7 @@ title: "Rocky: Stabilization of an Wheeled Inverted Pendulum "
 image: "images/projects/Rocky/cover image.png"
 draft: false
 project_date: "March 2021"
-weight: 3
+weight: 1
 pdf_title: "Final Report"
 pdf: https://drive.google.com/file/d/1cSPRIj65SJzSbj1q6CfiKfGYMo6t-ASF/preview
 categories: ["robotics","software"]

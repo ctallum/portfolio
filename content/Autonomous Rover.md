@@ -1,9 +1,9 @@
 ---
-title: "Autonomous Rover"
+title: "Fully Autonomous Rover"
 image: "images/projects/Autonomous Rover/cover image.png"
 draft: false
 project_date: "May 2021"
-weight: 3
+weight: 1
 categories: ["robotics","software","mechanical design","electronics"]
 ---
 

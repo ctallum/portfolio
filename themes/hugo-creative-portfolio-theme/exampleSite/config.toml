@@ -1,5 +1,5 @@
-baseURL = "https://chrisallum.com/"
-title = "Chris Allum Portfolio"
+baseurl = "https://example.org/"
+title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,10 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Online portfolio for Chris Allum"
-  copyright = "&copy;2022 Chris Allum"
+  description = "Describe your website"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a Robotics Engineer based out of Boston. I'm passionate about robotics, renewable energy, and all green tech! Check out a few of my projects"
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -28,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "ctallum@gmail.com"
+  email = "you@yoursite.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]

@@ -14,4 +14,6 @@ title = "About me"
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/16QIqx_lJQKTRAsMFrgpyCjVCqzdbU7SA/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/16QIqx_lJQKTRAsMFrgpyCjVCqzdbU7SA/preview" width="100%" id="Iframe" height="500" </iframe>
+
+

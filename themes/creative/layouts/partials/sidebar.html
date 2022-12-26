@@ -1,6 +1,9 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    <div class="layer">
+      <img src="/img/cover_photo.jpg" alt="Portfolio Image" style="padding-bottom: 15px;">
+    </div>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
@@ -10,14 +13,7 @@
       {{ end }}
     </ul>
     {{ partial "social_buttons_in_sidebar.html" . }}
-
-    <div class="copyright">
-      <p class="credit">
-        {{ with .Site.Params.copyright }}
-          {{ . | safeHTML }} |
-        {{ end }}
-        {{ partial "attribution.html" . }}
-      </p>
-    </div>
   </div>
+  
+
 </div>

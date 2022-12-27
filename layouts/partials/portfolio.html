@@ -7,18 +7,18 @@
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ if isset .Params "external_url"}}
-                            {{ if eq .Params.showonlyimage true }}
-                              <a href="{{ .Params.external_url}}" title="" class="box-masonry-image with-hover-overlay">
-                            {{ else }}
-                              <a href="{{ .Params.external_url}}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                            {{ end }}
+                          {{ if eq .Params.showonlyimage true }}
+                          <a href="{{ .Params.external_url }}" title="" class="box-masonry-image with-hover-overlay">
                           {{ else }}
-                            {{ if eq .Params.showonlyimage true }}
-                              <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
-                            {{ else }}
-                              <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                            {{ end }}
+                          <a href="{{ .Params.external_url }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                           {{ end }}
+                        {{ else }}
+                          {{ if eq .Params.showonlyimage true }}
+                          <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                          {{ else }}
+                          <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                          {{ end }}
+                        {{ end }}
                             <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
                         </a>
                       {{ end }}
@@ -30,7 +30,7 @@
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
                             <p>
-                              {{.Params.caption}}
+                              {{ .Params.caption }}
                             </p>
                           </div>
                       </div>

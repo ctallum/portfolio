@@ -4,7 +4,7 @@ cd /home/ctallum/Documents/Projects/portfolio
 
 git pull
 
-hugo -t kross-hugo
+hugo -t hugo-creative-portfolio-theme
 
 cd ./public/
 

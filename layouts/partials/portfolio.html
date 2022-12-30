@@ -2,7 +2,9 @@
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
-          {{ range .Data.Pages }}
+          {{ range .Data.Pages}}
+            {{ if isset .Params "about"}}
+            {{ else }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
@@ -36,6 +38,7 @@
                       </div>
                   </div>
               </div>
+              {{ end }}
           {{ end }}
         </div>
     </div>

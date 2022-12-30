@@ -7,7 +7,7 @@ weight: 2
 caption: "Building a competitive off-road vehicle from scratch"
 ---
 
-!["Cover Photo"](/img/projects/Baja%20SAE/main.png)
+!["Cover Photo"](/img/projects/Baja%20SAE/cover%20image.jpg)
 
 ### Overview
 

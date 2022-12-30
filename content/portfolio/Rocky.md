@@ -3,11 +3,8 @@ title: "Rocky: Stabilization of an Wheeled Inverted Pendulum "
 image: "img/projects/Rocky/cover image.png"
 draft: false
 project_date: "March 2021"
-weight: 1
-
-pdf: https://drive.google.com/file/d/1cSPRIj65SJzSbj1q6CfiKfGYMo6t-ASF/preview
-
-caption: "An inverted pendulum robot controlled by a PI controll system"
+weight: 3
+caption: "An inverted pendulum robot controlled by a PI control system"
 ---
 
 In this project, I helped design and implement a control system that maintains the balance of a wheeled inverted pendulum and corrects for angular disturbance.

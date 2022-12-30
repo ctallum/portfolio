@@ -4,7 +4,7 @@ image: "img/projects/Object Recognition/cover image.PNG"
 image: "img/projects/Object%20Recognition/eigendog5.png"
 draft: false
 project_date: "Dec 2020"
-weight: 2
+weight: 4
 caption: "Using linear algebra to determine if an item is a hot-dog or not"
 ---
 

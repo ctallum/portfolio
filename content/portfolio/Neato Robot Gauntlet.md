@@ -4,7 +4,6 @@ image: "img/projects/Neato Robot Gauntlet/cover image.png"
 draft: false
 project_date: "May 2020"
 weight: 3
-pdf: "https://drive.google.com/file/d/19vQha0wfSvICGLAlWt9pjXEmwwAYdduM/preview"
 caption: "Autonomous robotic path planning with a Neato self-driving vaccum cleaner"
 ---
 

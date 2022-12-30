@@ -4,7 +4,6 @@ image: "img/projects/High School Robotics/cover image.jpeg"
 draft: false
 project_date: "Sept 2015 - May 2019"
 weight: 4
-pdf: "https://drive.google.com/file/d/1r7BppwwdW1QOp6NFa28JWK8Mzj42UPR7/preview"
 caption: "A competitive underwater robot I designed"
 ---
 

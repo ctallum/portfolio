@@ -3,7 +3,7 @@ title: "Fully Autonomous Rover"
 image: "img/projects/Autonomous Rover/cover image.png"
 draft: false
 project_date: "May 2021"
-weight: 1
+weight: 4
 caption: "An autonomous rover that drove around Olin College campus"
 ---
 

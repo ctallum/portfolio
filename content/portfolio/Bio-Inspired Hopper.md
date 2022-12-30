@@ -4,7 +4,7 @@ image: "img/projects/Bio-Inspired Hopper/cover image.png"
 #date: 2021-07-18T16:01:26-05:00
 draft: false
 project_date: "Nov 2019"
-weight: 0
+weight: 5
 caption: "Building a simple bio-inspired hopper from basic materials"
 ---
 

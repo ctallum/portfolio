@@ -3,7 +3,7 @@ title: "Honda Robotics Internship"
 image: "img/projects/Honda/Honda.png"
 draft: false
 project_date: "May - Aug 2021"
-weight: 0
+weight: 2
 caption: "Internship at Honda Manufacturing working on welding robots"
 ---
 

@@ -3,7 +3,7 @@ title: "Baja SAE"
 image: "img/projects/Baja SAE/cover image.jpg"
 draft: false
 project_date: "Sept 2019 - Present"
-weight: 2
+weight: 3
 caption: "Building a competitive off-road vehicle from scratch"
 ---
 

@@ -14,13 +14,14 @@
     </ul>
     {{ partial "social_buttons_in_sidebar.html" . }}
 
-    <div class="copyright">
+    <p class="sidebar-p"> Last Updated: {{ now.Format "Jan 2, 2006" }} </p>
+    <!-- <div class="copyright">
       <p class="credit">
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }} 
         {{ end }}
-        <!-- {{ partial "attribution.html" . }} -->
+        {{ partial "attribution.html" . }}
       </p>
-    </div>
+    </div> -->
   </div>
 </div>

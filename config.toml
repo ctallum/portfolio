@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Online portfolio for Chris Allum"
   copyright = "&copy;2023 Chris Allum"
   sidebarAbout = [
-    "I am a Robotics Engineer based out of Boston. I'm passionate about robotics, renewable energy, and all green tech! Check out a few of my projects"
+    "I am a Robotics Engineer from Olin College of Engineering. I'm passionate about robotics, renewable energy, and all green tech! Check out a few of my projects"
   ]
   sidebarPhoto = "static/img/cover_photo.jpg"
   # Contact page

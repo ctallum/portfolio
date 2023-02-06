@@ -7,7 +7,7 @@ weight: 1
 caption: "Working on middleware for the new FX20 3D printer"
 ---
 
-I can't really say too much about what I did at Markforged as a Software Intern due to me signining a non-disclosure agreement, but here is what I can say:
+I can't really say too much about what I did at Markforged as a Software Intern due to me signing a non-disclosure agreement, but here is what I can say:
 
 - I had the oportunity to work on the middleware that exists on the new FX20 printers
 - I worked on some internal benchmarking tools

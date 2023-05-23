@@ -29,7 +29,11 @@
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
+                        {{ if isset .Params "external_url"}}
+                          <h4><a href="{{ .Params.external_url }}">{{ .Title }}</a></h4>
+                        {{ else }}
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                        {{ end }}
                           <div class="box-masonry-description">
                             <p>
                               {{ .Params.caption }}

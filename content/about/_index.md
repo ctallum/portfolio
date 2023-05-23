@@ -12,6 +12,9 @@ about = true
 - **Courses Taken:** Robotics Systems, Fundamentals of Robotics, Data Structures and Algorithms, Machine Learning, Systems Programming, Statics, Dynamics, Design for Manufacturing
 - **Extracurriculars:** Baja SAE Team - Suspension Design Lead
 
+#### Boston University | 2023 - present
+- **Masters of Science in Robotics and Autonomous Systems** 
+
 
 ### Resume
 

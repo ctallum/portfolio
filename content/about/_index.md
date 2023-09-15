@@ -18,6 +18,6 @@ about = true
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/14dxw-bUYCo6G1gkavNpSloXAFNU8AJhp/preview" width="100%" id="Iframe" height="500" </iframe>
+<iframe src="https://drive.google.com/file/d/1qjrxHkrxztNYJVRvyGAlTY7ScB6F5hKl/preview" width="100%" id="Iframe" height="500" </iframe>
 
 

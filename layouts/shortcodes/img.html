@@ -1,5 +1,5 @@
-{{ $image := resources.GetMatch (.Get "src") }}
+{{ $original := .Page.Resources.GetMatch (.Get 0) }}
+{{ $options := .Get 1 }}
+<img src="{{ $original.RelPermalink }}" width="{{ $options }}" >
 
-{{ $sz :=  (.Get "size") }} 
 
-<img src="{{ ($image.Resize $sz ).RelPermalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }} />

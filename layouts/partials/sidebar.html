@@ -2,7 +2,7 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
 
-    <img src="/img/cover_photo.jpg" alt="Portfolio Image" style="padding-bottom: 15px;" width="100%">
+    <img src="{{ .Site.Params.sidebarPhoto}}" alt="Portfolio Image" style="padding-bottom: 15px;" width="100%">
 
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>

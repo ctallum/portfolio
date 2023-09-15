@@ -18,7 +18,7 @@ googleAnalytics = ""
     "Olin College | 2019-2023 | B.S. Engineering with Concentration in Robotics", 
     "Boston University | 2023-present | M.S. Robotics and Autonomous Systems"
   ]
-  sidebarPhoto = "profile_photo.jpg"
+  sidebarPhoto = "/profile_photo.jpg"
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual

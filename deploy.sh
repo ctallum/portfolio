@@ -26,7 +26,7 @@ cd /home/ctallum/Documents/Projects/portfolio
 
 git pull
 
-sudo hugo -t hugo-creative-portfolio-theme
+hugo -t hugo-creative-portfolio-theme
 
 cd ./public/
 

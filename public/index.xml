@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Allum Portfolio</title>
+    <link>https://chrisallum.com/</link>
+    <description>Recent content on Chris Allum Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://chrisallum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markforged Software Intern</title>
+      <link>https://chrisallum.com/markforged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/markforged/</guid>
+      <description>While at Markforged, I worked as a software intern working to design the user interface and functionality of the new FX20 printers. While on the team, I worked on the following:
+ I worked on some internal benchmarking and stress testing tools Internal software optimizations that reduced print file processing time by around 7x. For large multiday prints on the FX20, this could save several minutes of processing time. Wrote lots of logging functionality for the new firmware on the FX20 to help developers understand the current state of the machine and to make debugging and finding errors easier I worked primarily in Typescript and a tiny bit with Rust  To give you an idea of the stuff I was working on, here is a photo of the FX20 printer that I was working with.</description>
+    </item>
+    
+    <item>
+      <title>Olin College Senior Capstone working with Brandeis University</title>
+      <link>https://chrisallum.com/scope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/scope/</guid>
+      <description>About For my senior capstone project, I worked with a team with Olin students in collaboration with Brandeis University to redesign a piece of laboratory equipment called the FlyBox. The FlyBox was designed by Brandeis to monitor and track the behavior of fruit flies over multi-day periods for circadian rhythm research. Using specific lights in the FlyBox, researchers were able to use optogenetics to control individual neurons in the flies&#39; brains and see how their sleep patterns changed.</description>
+    </item>
+    
+    <item>
+      <title>Honda Robotics Internship</title>
+      <link>https://chrisallum.com/honda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/honda/</guid>
+      <description>I worked as a robotics intern at Honda Development and Manufacturing of America, specifically at the Alabama Automotive Plant. While at Honda, I worked in the Weld 1 department where Honda vehicles are autonomously assembled and welded using several hundred Fanuc robots.
+During my internship, I had the opportunity to see how robotic systems are used within the industrial and automotive industry. A few of the projects I worked on during my internship are the following:</description>
+    </item>
+    
+    <item>
+      <title>Warehouse Robotics Obstacle Avoidance</title>
+      <link>https://chrisallum.com/samiam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/samiam/</guid>
+      <description>For my class EK505: Introduction to Robotics, for our final project, my team designed an obstacle avoidance system for warehouse robots. Typical warehouse robots use LiDAR to detect obstacles and the environment around them. However, this leaves them prone to small pieces of debris such as broken pallet chunks that are often found in warehouses. Robots can slip on them and whatever they are carrying may be damaged if the robot falls.</description>
+    </item>
+    
+    <item>
+      <title>B-trees</title>
+      <link>https://chrisallum.com/b-tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/b-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baja SAE</title>
+      <link>https://chrisallum.com/baja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/baja/</guid>
+      <description>Overview I was a member of Olin&amp;rsquo;s Baja SAE team for four years. The team worked on designing a new off-road vehicle each year in preparation for an end of year competition. For three years, I served as the head of the suspension sub-team, leading the design and fabrication of the suspension, steering, cockpit, and brakes. In effect, our sub-team designed and fabricated any component on the car that wasn&amp;rsquo;t the main chassis or the engine, gearbox, and transmission.</description>
+    </item>
+    
+    <item>
+      <title>Design for Manufacturing</title>
+      <link>https://chrisallum.com/dfm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/dfm/</guid>
+      <description>Treasure Box The first project that I worked on was designing a &amp;ldquo;treasure box&amp;rdquo; that would be machined out of a 6&amp;quot;x6&amp;quot;x3&amp;quot; block of aluminum. The box would be CNC milled using a Tormach mill. I decided that I would try to make my box look like a pie. Here are a few images of the CAD and the final result:
+The first design included a full lattice pattern on the top of the box.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics Simulations</title>
+      <link>https://chrisallum.com/dynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Planning through Gradient Descent</title>
+      <link>https://chrisallum.com/neato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/neato/</guid>
+      <description>About  
+In this project, I programed a Neato vacuuming robot to traverse an obstacle course. The Neato was placed in an arena with several boxes that served as obstacles. The goal was for the Neato to autonomously scan the environment using it&amp;rsquo;s LIDAR sensor, plan a course (avoiding the obstacles), and make its way to the goal object, a round barrel.
+ Above is an image of the course the robot was placed in.</description>
+    </item>
+    
+    <item>
+      <title>Rock Paper Scissors Machine Learning</title>
+      <link>https://chrisallum.com/rock_paper_scissors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/rock_paper_scissors/</guid>
+      <description>In this project, I built a CNN machine learning model to identify hand poses in a game of rock paper scissors using PyTorch.
+ Final Report  </description>
+    </item>
+    
+    <item>
+      <title>Rocky: Stabilization of an Wheeled Inverted Pendulum </title>
+      <link>https://chrisallum.com/rocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/rocky/</guid>
+      <description>In this project, I helped design and implement a control system that maintains the balance of a wheeled inverted pendulum and corrects for angular disturbance.
+For this project, we used a Pololu Balboa 32U4 robot kit as the robotic base with a set of 0.6 m long laser-cut MDF side extension to raise the center of mass and create the inverted pendulum. At the top of the robot are a set of weights, adding up to around 200g.</description>
+    </item>
+    
+    <item>
+      <title>Fully Autonomous Rover</title>
+      <link>https://chrisallum.com/rover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/rover/</guid>
+      <description>Overview With a team of 5 other Olin students, I helped built a fully autonomous rover that was capable of driving around campus. The Rover was capable of driving from point to point while preforming obstacle avoidance. The Rover also had a manipulator on the front that was capable of picking up and dropping items.
+The rover navigated using a series of sensors. On the rover were two sonar sensors, five infrared distance sensors, a GPS module, and webcam capable of object recognition.</description>
+    </item>
+    
+    <item>
+      <title>High School Robotics</title>
+      <link>https://chrisallum.com/hs_robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/hs_robotics/</guid>
+      <description>I was the head of my HS robotics team during my Junior and Senior years. We competed in the MATE ROV competition were we had to build an underwater remotely operated vehicle (ROV) to preform a series of tasks. Here are a few images of the robots I helped build and design.
+Our Rover These are photos of our final robot. The internals of the robot contained six motor controllers, an Arduino, and a Raspberry Pi.</description>
+    </item>
+    
+    <item>
+      <title>Object Recognition: Hot Dog or Not</title>
+      <link>https://chrisallum.com/object_recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/object_recognition/</guid>
+      <description>About In this project, I created an algorithm that attempted to identify whether an image was a hot dog or not.
+To build this algorithm, I first assembled a training set of 89 images of hot dogs. I then removed the background noise in each photo and re-oriented the hot dog so that it lay horizontal across the center of a 72x128 frame. I then vectorized each photo into a 9216x1x3 matrix (one column vector for each set of RGB value.</description>
+    </item>
+    
+    <item>
+      <title>Python Platformer Game</title>
+      <link>https://chrisallum.com/game_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/game_development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio Inspired Hopper</title>
+      <link>https://chrisallum.com/hopper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisallum.com/hopper/</guid>
+      <description>For this project, I designed a &amp;ldquo;hopper&amp;rdquo; using a set of limited materials. The aim of this project was to learn more about design process, using CAD, and prototyping.
+This was the first drawing of my hopper. I really wanted to incorporate a four-bar linkage as the primary jumping mechanism. I was also inspired by a how a grasshopper shoots it&amp;rsquo;s leg out to jump. These sources of inspiration are what lead me to this design.</description>
+    </item>
+    
+  </channel>
+</rss>

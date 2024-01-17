@@ -1,6 +1,6 @@
 ---
 title: "Olin College Senior Capstone working with Brandeis University"
-image: "cover_photos/scope.jpg"
+image: "cover_photos/FlyBox.JPG"
 draft: false
 project_date: "Sept 2022 - May 2023"
 weight: 1

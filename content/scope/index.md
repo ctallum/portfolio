@@ -1,5 +1,5 @@
 ---
-title: "Olin College Senior Capstone working with Brandeis University"
+title: "Lab Engineer at Brandeis University"
 image: "cover_photos/FlyBox.JPG"
 draft: false
 project_date: "Sept 2022 - May 2023"
@@ -11,12 +11,11 @@ caption: "Working with the Brandeis Rosbash Lab to redesign the FlyBox, a Drosop
 
 ### About
 
-For my senior capstone project, I worked with a team with Olin students in collaboration with Brandeis University to redesign a piece of laboratory equipment called the FlyBox. The FlyBox was designed by Brandeis to monitor and track the behavior of fruit flies over multi-day periods for circadian rhythm research. Using specific lights in the FlyBox, researchers were able to use optogenetics to control individual neurons in the flies' brains and see how their sleep patterns changed. The device was created to replaced existing methods of fruit fly behavior observation, offering more detailed and accurate data at a lower cost. The FlyBox has already been used to generate data for Nobel Prize-winning research on the circadian rhythm. However, the current version of the FlyBox was just a prototype. It lacked the durability and polish needed for long term use. Furthermore, Brandeis wished for the FlyBox to be created from a simple open source kit, able to be assembled by anybody. In a kit form, the FlyBox could be shared and used by partner institutions around the world. The goal of project was to redesign the FlyBox from a functional prototype into a polished product that was more robust, able to be assembled from a kit, and be user friendly.
+For my senior capstone project at Olin College, I worked with a team with Olin students in collaboration with Brandeis University to redesign a piece of laboratory equipment called the FlyBox. The FlyBox was designed by Brandeis to monitor and track the behavior of fruit flies over multi-day periods for circadian rhythm research. Using specific lights in the FlyBox, researchers were able to use optogenetics to control individual neurons in the flies' brains and see how their sleep patterns changed. The device was created to replaced existing methods of fruit fly behavior observation, offering more detailed and accurate data at a lower cost. The FlyBox has already been used to generate data for Nobel Prize-winning research on the circadian rhythm. However, the current version of the FlyBox was just a prototype. It lacked the durability and polish needed for long term use. Furthermore, Brandeis wished for the FlyBox to be created from a simple open source kit, able to be assembled by anybody. In a kit form, the FlyBox could be shared and used by partner institutions around the world. The goal of project was to redesign the FlyBox from a functional prototype into a polished product that was more robust, able to be assembled from a kit, and be user friendly.
 
 ### Scope Summit Presentation
 
 {{<youtube nXNCLWPsdFo >}}
-
 
 
 ### Work on the Project

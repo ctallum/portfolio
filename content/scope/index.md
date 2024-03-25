@@ -17,6 +17,8 @@ For my senior capstone project, I worked with a team with Olin students in colla
 
 {{<youtube nXNCLWPsdFo >}}
 
+
+
 ### Work on the Project
 
 For this project, I worked extensively on the firmware for the FlyBox. Our team's goal was to radically change how users design and run tests using the FlyBox. Previously, users manually edited an Arduino script to control how and when different lights turn on and off. We wanted to create a software workflow where users could program the box using a visual web-based user interface, download a testing profile in the form of a ".txt" file and upload the test file to the box. The test files can be loaded onto an SD card, and from the box, the user can visually select which testing profile they want to run. We were inspired by the software workflow for most consumer 3D printers. 
@@ -30,3 +32,7 @@ The code for this project can be found in the GitHub link below.
 - [Github Repo](https://github.com/ctallum/FlyBox)
 - [Olin College SCOPE project page](https://www.olin.edu/research/brandeis-university-rosbash-lab)
 - [Brandeis Rosbash Lab](http://www.bio.brandeis.edu/rosbash-lab/index.php/research/)
+
+### Scope Summit Poster
+
+<iframe src="https://drive.google.com/file/d/19ff80HY2qeMLv_a6H1LmFTKAPSMkIdd6/preview" width="100%" id="Iframe" height="550" </iframe>

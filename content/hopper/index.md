@@ -6,6 +6,9 @@ draft: false
 project_date: "Nov 2019"
 weight: 5
 caption: "Building a simple bio-inspired hopper from basic materials"
+tags:
+- tag: Mechanical Design
+- tag: Rapid Prototyping
 ---
 
 For this project, I designed a "hopper" using a set of limited materials. The aim of this project was to learn more about design process, using CAD, and prototyping.

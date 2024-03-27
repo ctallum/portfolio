@@ -5,6 +5,10 @@ draft: false
 project_date: "March 2021"
 weight: 3
 caption: "An inverted pendulum robot controlled by a PI control system"
+tags:
+- tag: Robotics
+- tag: Software
+- tag: Controls
 ---
 
 In this project, I helped design and implement a control system that maintains the balance of a wheeled inverted pendulum and corrects for angular disturbance.

@@ -5,6 +5,8 @@ draft: false
 project_date: "Dec 2020"
 weight: 4
 caption: "Using linear algebra to determine if an item is a hot-dog or not"
+tags:
+- tag: Software
 ---
 
 ### About

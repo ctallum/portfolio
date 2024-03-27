@@ -5,6 +5,11 @@ draft: false
 project_date: "Sept 2019 - Aug 2023"
 weight: 3
 caption: "Building a competitive off-road vehicle from scratch"
+tags:
+- tag: Mechanical Design
+- tag: DFM
+- tag: Leadership
+- tag: Machining
 ---
 
 

@@ -330,7 +330,7 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-size: 18px;
+  font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
@@ -396,6 +396,35 @@ SIDEBAR + RIGHT COLUMN
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
+}
+.content-column-content h2{
+  margin-bottom: 0px;
+}
+.content-column-content h4{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.content-column-content .education .school-name{
+  font-weight: 700;
+}
+.content-column-content .education .edu-dates{
+  font-weight: normal;
+  float: right;
+}
+.content-column-content .education h5{
+  font-weight: normal;
+  margin: 0px
+}
+.content-column-content .education .scholarship{
+  font-weight: normal;
+  padding-bottom: 10px;
+  
+}
+.content-column-content hr {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  height: 1px;
+  background-color: #999999;
 }
 @media (min-width: 1200px) {
   .content-column-content {
@@ -855,6 +884,16 @@ a:active {
 }
 .box-masonry .box-masonry-text {
   padding: 15px 20px 15px;
+}
+.box-masonry .box-masonry-text .card-footer {
+  padding-top: 5px;
+}
+.box-masonry .box-masonry-text .card-footer .badge{
+  font-weight: normal;
+}
+.box-masonry .box-masonry-text hr{
+  margin-top: 5px;
+  margin-bottom: 0px;
 }
 .box-masonry .box-masonry-text p {
   color: #999999;

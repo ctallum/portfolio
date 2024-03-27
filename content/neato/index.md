@@ -5,6 +5,10 @@ draft: false
 project_date: "May 2020"
 weight: 3
 caption: "Autonomous robotic path planning with a Neato self-driving vacuum cleaner"
+tags: 
+- tag: Robotics
+- tag: Software
+- tag: Path Planning
 ---
 ### About
 

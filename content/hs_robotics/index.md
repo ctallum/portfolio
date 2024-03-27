@@ -5,6 +5,10 @@ draft: false
 project_date: "Sept 2015 - May 2019"
 weight: 4
 caption: "A competitive underwater robot I designed"
+tags:
+- tag: Robotics
+- tag: System Integration
+- tag: Mechanical Design
 ---
 
 I was the head of my HS robotics team during my Junior and Senior years. We competed in the MATE ROV competition were we had to build an underwater remotely operated vehicle (ROV) to preform a series of tasks. Here are a few images of the robots I helped build and design.

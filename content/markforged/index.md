@@ -5,6 +5,8 @@ draft: false
 project_date: "May - Aug 2022"
 weight: 1
 caption: "Working on middleware for the new FX20 3D printer"
+tags:
+- tag: Software
 ---
 
 While at Markforged, I worked as a software intern working to design the user interface and functionality of the new FX20 printers. While on the team, I worked on the following:

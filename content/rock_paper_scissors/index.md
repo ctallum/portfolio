@@ -5,6 +5,9 @@ draft: false
 project_date: "Oct 2021"
 weight: 3
 caption: "A simple CNN machine learning model to identify hand poses built with Pytorch"
+tags:
+- tag: Software
+- tag: Machine Learning
 
 ---
 In this project, I built a CNN machine learning model to identify hand poses in a game of rock paper scissors using PyTorch.

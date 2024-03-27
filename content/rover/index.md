@@ -5,6 +5,10 @@ draft: false
 project_date: "May 2021"
 weight: 4
 caption: "An autonomous rover that drove around Olin College campus"
+tags: 
+- tag: Robotics
+- tag: Software
+- tag: System Integration
 ---
 
 

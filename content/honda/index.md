@@ -5,6 +5,8 @@ draft: false
 project_date: "May - Aug 2021"
 weight: 2
 caption: "Internship at Honda Manufacturing working on welding robots"
+tags:
+- tag: Robotics
 ---
 
 I worked as a robotics intern at Honda Development and Manufacturing of America, specifically at the Alabama Automotive Plant. While at Honda, I worked in the Weld 1 department where Honda vehicles are autonomously assembled and welded using several hundred Fanuc robots.

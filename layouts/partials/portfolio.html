@@ -39,6 +39,14 @@
                               {{ .Params.caption }}
                             </p>
                           </div>
+                          {{ if isset .Params "tags"}}
+                          <hr style="margin-top: 5px; margin-bottom: 5px;">
+                          <div class="card-footer">
+                            {{ range .Params.tags}}
+                            <span class="badge rounded-pill bg-primary">{{ .tag}}</span>
+                            {{ end }}
+                          </div>
+                          {{ end }}
                       </div>
                   </div>
               </div>

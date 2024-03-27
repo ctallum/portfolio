@@ -5,6 +5,9 @@ draft: false
 project_date: "Sept - Dec 2021"
 weight: 3
 caption: "Items I designed and machined for a class in Design for Manufacturing"
+tags:
+- tag: Mechanical Design
+- tag: DFM
 ---
 
 ### Treasure Box

@@ -44,4 +44,4 @@ The image below shows some of the algorithm's findings and demonstrates its viab
 
 ---
 ## Final Report
-<iframe src="https://drive.google.com/file/d/1gG6pCWpDNPaFriDvA_YELosfVvA4JW9T/preview" width="100%" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1gG6pCWpDNPaFriDvA_YELosfVvA4JW9T/preview" width="100%" height="800" allow="autoplay"></iframe>

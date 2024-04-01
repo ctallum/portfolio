@@ -23,4 +23,4 @@ For the technical details of this project, please read the following PDF documen
 
 ---
 ## Final Report
-<iframe src="https://drive.google.com/file/d/1cSPRIj65SJzSbj1q6CfiKfGYMo6t-ASF/preview" width="100%" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1cSPRIj65SJzSbj1q6CfiKfGYMo6t-ASF/preview" width="100%" height="800" allow="autoplay"></iframe>

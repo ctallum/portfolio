@@ -49,4 +49,4 @@ This is a video of a simulation of a successful run. The robot first scans the e
 
 ---
 ## Final Report
-<iframe src="https://drive.google.com/file/d/19vQha0wfSvICGLAlWt9pjXEmwwAYdduM/preview" width="100%" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/19vQha0wfSvICGLAlWt9pjXEmwwAYdduM/preview" width="100%" height="800" allow="autoplay"></iframe>

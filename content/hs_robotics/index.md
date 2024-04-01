@@ -40,4 +40,4 @@ Here are a series of images of the CAD model of our ROV. I designed all of these
 
 Here is the documentation of our rover including system interconnection diagram in the appendix:
 
- <iframe src="https://drive.google.com/file/d/1r7BppwwdW1QOp6NFa28JWK8Mzj42UPR7/preview" width="100%" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1r7BppwwdW1QOp6NFa28JWK8Mzj42UPR7/preview" width="100%" height="800" allow="autoplay"></iframe>

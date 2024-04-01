@@ -21,6 +21,6 @@ For my class EK505: Introduction to Robotics, for our final project, my team des
 
 
 ## Final Report
-<iframe src="https://drive.google.com/file/d/1bX7i8qXegSnYpZaSbCVH3QzJi1lpbmcV/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1bX7i8qXegSnYpZaSbCVH3QzJi1lpbmcV/preview" width="100%" height="800" allow="autoplay"></iframe>
 
 

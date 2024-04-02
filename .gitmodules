@@ -1,8 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:ctallum/ctallum.github.io.git
-	branch = main
-[submodule "build"]
-	path = build
-	url = git@github.com:ctallum/ctallum.github.io.git
-	branch = main

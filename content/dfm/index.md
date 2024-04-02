@@ -1,6 +1,6 @@
 ---
 title: "Design for Manufacturing"
-image: "cover_photos/dfm.jpeg"
+image: "cover.jpeg"
 draft: false
 project_date: "Sept - Dec 2021"
 weight: 3

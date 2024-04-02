@@ -1,9 +1,9 @@
 ---
 title: "Baja SAE"
-image: "cover_photos/baja.jpg"
+image: "cover.JPG"
 draft: false
 project_date: "Sept 2019 - Aug 2023"
-weight: 3
+weight: 2
 caption: "Building a competitive off-road vehicle from scratch"
 tags:
 - tag: Mechanical Design
@@ -15,23 +15,26 @@ tags:
 
 {{< img IMG_4751.JPG "70%" >}}
 
-
 <br>
 
-### Overview
-
-I was a member of Olin's Baja SAE team for four years. The team worked on designing a new off-road vehicle each year in preparation for an end of year competition. For three years, I served as the head of the suspension sub-team, leading the design and fabrication of the suspension, steering, cockpit, and brakes. In effect, our sub-team designed and fabricated any component on the car that wasn't the main chassis or the engine, gearbox, and transmission. 
-
-Through Olin's Baja team, I became proficient in mechanical design, FEA analysis, and machining. I have also learned a lot about suspension geometry and cars in general.
-
-Part of my duties as the suspension team lead were organizing and leading team meetings, keeping track of deadlines, fostering a collaborative and friendly workspace, and mentoring younger teammates on design and fabrication. 
+### Summary
+- Suspension design lead for 3 years
+- Led a team of 10 members in designing a new four-wheel drive suspension system for a competitive off-road vehicle
+- Organized and led bi-weekly suspension team meetings
+- Mentored students in topics such as design for manufacturing, failure analysis, and FEA
+- Designed front suspension geometry, brakes, and steering assemblies 
 
 ### By the numbers
 - 50+ custom designed vehicle components
 - 300+ hours in the machine shop
 - 100+ parts machined (Lathe, Mill, CNC Mill, Welded)
 
-### Projects I have worked on for both design and fabrication
+### Photo Gallary
+Below are a bunch of photos of parts that I have designed or made: 
+
+{{< image-gallery gallery_dir="baja-gallery" >}}
+
+### All Parts I have worked on for both design and fabrication
 - front steering knuckles
 - front wheel hubs
 - half shaft spline adapters
@@ -48,13 +51,5 @@ Part of my duties as the suspension team lead were organizing and leading team m
 - rear brake mounts
 - rear trailing arms and bearing carrier
 - rear control arms
-
-Below are a bunch of photos of parts that I have designed or made: 
-
-[INSERT PHOTOS HERE]
-
-If I haven't yet added photos, I'm sorry. Check back later :(
-
-
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Fully Autonomous Rover"
-image: "cover_photos/autonomous_rover.png"
+image: "cover.png"
 draft: false
 project_date: "May 2021"
 weight: 4

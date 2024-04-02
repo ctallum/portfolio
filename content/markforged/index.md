@@ -1,6 +1,6 @@
 ---
 title: "Markforged Software Intern"
-image: "cover_photos/markforged.png"
+image: "cover.png"
 draft: false
 project_date: "May - Aug 2022"
 weight: 1
@@ -9,13 +9,13 @@ tags:
 - tag: Software
 ---
 
-While at Markforged, I worked as a software intern working to design the user interface and functionality of the new FX20 printers. While on the team, I worked on the following:
+{{< img fx20.jpg "50%" >}}
 
-- I worked on some internal benchmarking and stress testing tools
-- Internal software optimizations that reduced print file processing time by around 7x. For large multiday prints on the FX20, this could save several minutes of processing time.
-- Wrote lots of logging functionality for the new firmware on the FX20 to help developers understand the current state of the machine and to make debugging and finding errors easier
-- I worked primarily in Typescript and a tiny bit with Rust
-
-To give you an idea of the stuff I was working on, here is a photo of the FX20 printer that I was working with. 
-
-{{< img fx20.jpg "70%" >}}
+### Summary
+- Software intern working on user interface and functionality of new FX20 3D printers 
+- Wrote internal benchmarking and stress testing tools used to test print file parsing and decryption
+- Wrote internal software optimizations that reduced print file processing time by around 7x
+- Wrote event logging functionality to help developers understand the current state of the machine and to make debugging and finding errors easier
+- Worked on miscellaneous bug fixes and small upgrades
+- Worked primarily in Typescript and a tiny bit with Rust
+- Participated daily standup meetings

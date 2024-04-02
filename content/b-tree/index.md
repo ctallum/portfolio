@@ -1,6 +1,6 @@
 ---
 title: "B-trees"
-image: "cover_photos/b-tree.png"
+image: "cover.png"
 draft: false
 project_date: "Dec 2022"
 weight: 3

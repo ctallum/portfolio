@@ -1,6 +1,6 @@
 ---
 title: "High School Robotics"
-image: "cover_photos/HS_robotics.jpeg"
+image: "cover.jpeg"
 draft: false
 project_date: "Sept 2015 - May 2019"
 weight: 4

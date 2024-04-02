@@ -1,6 +1,6 @@
 ---
 title: "Honda Robotics Internship"
-image: "cover_photos/Honda.png"
+image: "cover.png"
 draft: false
 project_date: "May - Aug 2021"
 weight: 2
@@ -9,13 +9,13 @@ tags:
 - tag: Robotics
 ---
 
-I worked as a robotics intern at Honda Development and Manufacturing of America, specifically at the Alabama Automotive Plant. While at Honda, I worked in the Weld 1 department where Honda vehicles are autonomously assembled and welded using several hundred Fanuc robots.
+### Summary
+- Worked as a robotics intern at Honda Manufacturing Alabama Automotive Plant in the robotic welding division
+- Helped install and train a vision system on a Fanuc spot welding robot to assist in pick and place operations
+- Reduced mispicks led to a reduction in assembly line downtime, costs, and human injury
+- Worked to install and train a vision system to gather data on another Fanuc pick and place robot.
+- Data was used to identify potential problems with line operations and identify source of inconsistent robot operations. 
 
-During my internship, I had the opportunity to see how robotic systems are used within the industrial and automotive industry. A few of the projects I worked on during my internship are the following:
-
-1. Install and train a vision system on a Fanuc spot-weld robot to assist in pick and place operations. This vision system is currently in use and helps reduce mispicks. This system reduces assembly line downtime, reduces cost, and reduces human injury.
-
-2. Install and train a vision system to gather data on a Fanuc pick and place robot. This data was used to help identify potential problems with the assembly line. The data is currently being used to develop countermeasures for inconsistent robot operations. 
 
 ---
 ## Final Presentation

@@ -1,6 +1,6 @@
 ---
 title: "Python Platformer Game"
-image: "cover_photos/game_development.png"
+image: "cover.png"
 draft: false
 project_date: "Dec 2021"
 weight: 4

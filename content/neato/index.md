@@ -1,6 +1,6 @@
 ---
 title: "Path Planning through Gradient Descent"
-image: "cover_photos/neato.png"
+image: "cover.png"
 draft: false
 project_date: "May 2020"
 weight: 3
@@ -12,7 +12,7 @@ tags:
 ---
 ### About
 
-{{<img neato.png "70%" >}}
+{{<img neato.jpeg "70%" >}}
 <br/>
 
 In this project, I programed a Neato vacuuming robot to traverse an obstacle course. The Neato was placed in an arena with several boxes that served as obstacles. The goal was for the Neato to autonomously scan the environment using it's LIDAR sensor, plan a course (avoiding the obstacles), and make its way to the goal object, a round barrel.

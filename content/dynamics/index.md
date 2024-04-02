@@ -1,6 +1,6 @@
 ---
 title: "Dynamics Simulations"
-image: "cover_photos/dynamics.png"
+image: "cover.png"
 draft: false
 project_date: "May 2021"
 weight: 3

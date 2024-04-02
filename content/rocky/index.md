@@ -1,6 +1,6 @@
 ---
 title: "Rocky: Stabilization of an Wheeled Inverted Pendulum "
-image: "cover_photos/rocky.png"
+image: "cover.png"
 draft: false
 project_date: "March 2021"
 weight: 3

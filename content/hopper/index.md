@@ -1,7 +1,6 @@
 ---
 title: "Bio Inspired Hopper"
-image: "cover_photos/hopper.png"
-#date: 2021-07-18T16:01:26-05:00
+image: "cover.png"
 draft: false
 project_date: "Nov 2019"
 weight: 5

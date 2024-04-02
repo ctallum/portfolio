@@ -1,6 +1,6 @@
 ---
 title: "Rock Paper Scissors Machine Learning"
-image: "cover_photos/rock_paper_scissors.PNG"
+image: "cover.PNG"
 draft: false
 project_date: "Oct 2021"
 weight: 3

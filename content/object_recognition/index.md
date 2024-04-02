@@ -1,6 +1,6 @@
 ---
 title: "Object Recognition: Hot Dog or Not"
-image: "cover_photos/object_recognition.png"
+image: "cover.png"
 draft: false
 project_date: "Dec 2020"
 weight: 4

@@ -10,6 +10,10 @@ tags:
 - tag: DFM
 ---
 
+### Summary
+- Designed and fabricated series of objects from scratch using DFM principles 
+- Used techniques such as CNC milling, vacuum forming, injection molding, silicon molding, and more
+
 ### Treasure Box
 
 The first project that I worked on was designing a "treasure box" that would be machined out of a 6"x6"x3" block of aluminum. The box would be CNC milled using a Tormach mill. I decided that I would try to make my box look like a pie. Here are a few images of the CAD and the final result:

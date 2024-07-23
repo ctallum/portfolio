@@ -1,5 +1,5 @@
 ---
-title: "Rock Paper Scissors Machine Learning"
+title: "Rock Paper Scissors CNN Machine Learning Model"
 image: "cover.PNG"
 draft: false
 project_date: "Oct 2021"

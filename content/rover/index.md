@@ -1,5 +1,5 @@
 ---
-title: "Fully Autonomous Rover"
+title: "Waypoint Navigation Rover"
 image: "cover.png"
 draft: false
 project_date: "May 2021"

@@ -1,5 +1,5 @@
 ---
-title: "Custom 3D Print Slicer Designed for Fiber Inlays"
+title: "Custom 3D Printer Slicer for Fiber Reinforced Prints"
 image: "bunny 6.png"
 draft: false
 project_date: "May 2024"

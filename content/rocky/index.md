@@ -1,5 +1,5 @@
 ---
-title: "Rocky: Stabilization of an Wheeled Inverted Pendulum "
+title: "Wheeled Inverted Pendulum Robot Using PID Control System"
 image: "cover.png"
 draft: false
 project_date: "March 2021"

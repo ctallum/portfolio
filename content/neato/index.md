@@ -1,5 +1,5 @@
 ---
-title: "Path Planning through Gradient Descent"
+title: "Path Planning for Robot Vacuum using Gradient Descent"
 image: "cover.png"
 draft: false
 project_date: "May 2020"

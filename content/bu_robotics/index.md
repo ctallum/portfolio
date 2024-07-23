@@ -22,3 +22,19 @@ I'm keeping a weekly log of things that I got done and things that I learned as 
 
 #### June 10-14
 - For this week, I continued going through the ROS tutorials, specifically for Gazebo and the Clearpath Jackal robots. I also had to fix some issues with ROS and Ubuntu and how they interacted with broken dependencies on my laptop. I also read though old project code to get a better sense of how everything works on a base level.
+
+
+#### June 17 - 21
+- For this week, I got the code base up and running. I got Gazebo/Ros working with the old simulations and began testing
+
+#### June 24 - 28
+- I worked on creating a ROS service that takes a single lidar scan and uses the existing ML model to predict the surrounding rooms
+
+#### July 8 - 12
+- Based on the new transformer ML model, I began working on a frontier exploration algorithm that uses semantic predictions of rooms and doors to fully explore an apartment layout
+
+#### July 15 - 19
+- Converted the new frontier exploration algorithm to ROS/Gazebo and worked to improve the algorithm so that it is more robust
+
+#### July 22 - 26
+

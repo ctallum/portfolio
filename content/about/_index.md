@@ -3,12 +3,12 @@ title: "About me"
 about: true 
 education:
 - name: "Boston University"
-  dates: "2023 - Present"
+  dates: "2023 - 2024"
   gpa: "3.83"
   degree: "Masters in Robotics and Autonomous Systems" 
   notes:
     - note: "Courses Taken: Robot Motion Planning, Nonlinear Systems and Control, Dynamic System Theory, Geometric Processing, Medical Robotics"
-    - note: "Extracurriculars: Boston University Fencing Club - Northeast Fencing Conference All-Star"
+    - note: "Extracurricular: Boston University Fencing Club - Northeast Fencing Conference All-Star"
   scholarship: "Recipient of Dean's Scholarship"
 - name: "Olin College of Engineering"
   dates: "2019 - 2023"
@@ -16,7 +16,7 @@ education:
   degree: "Bachelors of Science in Engineering"
   notes:
     - note: "Courses Taken: Robotic Systems, Fundamentals of Robotics, Data Structures and Algorithms, Machine Learning, Systems Programming"
-    - note: "Extracurriculars: Baja SAE - Suspension Design Lead"
+    - note: "Extracurricular: Baja SAE - Suspension Design Lead"
   scholarship: "Recipient of 4 year Olin Merit Scholarship"
 
 ---

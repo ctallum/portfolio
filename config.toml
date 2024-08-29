@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "Online portfolio for Chris Allum"
   copyright = "&copy;2024 Chris Allum"
   sidebarAbout = [
-    "Hi, I'm a Graduate student at Boston University working towards my M.S. in Robotics and Autonomous Systems. I graduated from Olin College of Engineering with a B.S. in Engineering with a concentration in Robotics. I'm passionate about robotic path planning, autonomous systems, mechanics, renewable energy, and all things green tech! Check out a few of my projects!",
-        "Boston University | 2023-present | M.S. Robotics and Autonomous Systems",
+    "Hi, I'm a robotics/systems engineer based in Boston. I graduated from Boston University with a M.S. in Robotics, and Olin College of Engineering with a B.S. in Engineering with a concentration in Robotics. I'm passionate about robotic path planning, autonomous systems, mechanics, renewable energy, and all things green tech! Check out a few of my projects!",
+        "Boston University | 2023-2024 | M.S. Robotics and Autonomous Systems",
     "Olin College | 2019-2023 | B.S. Engineering with Concentration in Robotics"
   ]
   sidebarPhoto = "/profile_photo.jpg"

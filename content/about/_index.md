@@ -24,6 +24,7 @@ education:
 
 ### Resume
 
-<iframe src="https://drive.google.com/file/d/18oP3NysbnAnLTloYEyMAuJgrPlHIb-Hv/preview" width="100%" id="Iframe" height="800" </iframe>
+<iframe src="https://drive.google.com/file/d/1Cp_GAAcVj0lBkfjPnn4pT3gJWIw0g7Oe/preview" width="100%" id="Iframe" height="800" </iframe>
 
 
+https://drive.google.com/file/d/1Cp_GAAcVj0lBkfjPnn4pT3gJWIw0g7Oe/view?usp=sharing
